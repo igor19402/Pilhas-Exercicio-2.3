@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550348922 source:c:\users\igorg\desktop\silvio lago\pilhas2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1550348563 c:\users\igorg\desktop\silvio lago\pilhas2\pilha.h
+	<stdlib.h>
+
